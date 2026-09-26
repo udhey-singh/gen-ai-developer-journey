@@ -4,9 +4,9 @@ My goal - to become a Gen AI developer.
 
 Focus - GenAI application engineering.
 
-Roadmap -  I created this roadmap by comparing multiple GenAI and AI engineering roadmaps, looking at what was relevant to my goals and learning path, and then selecting and combining the parts I wanted to follow.
+Roadmap - I created this roadmap by comparing multiple GenAI and AI engineering roadmaps, identifying the parts that were most relevant to my goals, and then selecting and combining the parts I wanted to follow. I used AI to help with the comparison and refinement.
 
-This is the final roadmap I am following in this repository.
+The roadmap in this repository is the final roadmap I am following.
 
 Started - 5 August 2026
 

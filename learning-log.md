@@ -40,13 +40,13 @@ Writwrows - writes all the rows
 
 Aug 9 - today I studied type hint(mypy) in it -
 
-<img src="assets/image-04.jpeg" alt="Study note image" width="300">
+<img src="assets/image-01.jpeg" alt="Study note image" width="300">
 
 the basic thing about mypy is that it checks and tell us if the type hints are beginning followed or not and python will run the program and won't consider type hints they are just for developers to see and understand what it's output and more are meant to be and in it -
 
 Also studied uv -
 
-<img src="assets/image-05.jpeg" alt="Study note image" width="300">
+<img src="assets/image-02.jpeg" alt="Study note image" width="300">
 
 Also studied exception handling in it
 
@@ -62,21 +62,21 @@ Raise - we raise error by ourself
 
 Aug 10 - completed expection handling
 
-<img src="assets/image-06.jpeg" alt="Study note image" width="300">
+<img src="assets/image-03.jpeg" alt="Study note image" width="300">
 
 Still i was thinking to begin logging but bad sleep( not that didn't sleep for 8 hours but for sure didn't sleep well) and not enough time got better if me still I'll continue Tommorow.
 
 Aug 11 - completed logging, the 5 levels are not mentioned here
 
-<img src="assets/image-07.jpeg" alt="Study note image" width="300">
+<img src="assets/image-04.jpeg" alt="Study note image" width="300">
 
-<img src="assets/image-08.jpeg" alt="Study note image" width="300">
+<img src="assets/image-05.jpeg" alt="Study note image" width="300">
 
 Aug 12 - completed pytest -
 
 I think I will easily forget a lot of functions and mostly the writing schema but most probably remember the working of it, which I think is the main part
 
-<img src="assets/image-09.jpeg" alt="Study note image" width="300">
+<img src="assets/image-06.jpeg" alt="Study note image" width="300">
 
 Aug 13 - didn't do much practices pytest a bit mostly the async with patch part and again studying OOP (classes, inheritance), decorators, generators, iterators,
 
@@ -86,27 +86,27 @@ For example -  I saw a video of tech with tim on pytest it has the topics till m
 
 Aug 14 -
 
-<img src="assets/image-10.jpeg" alt="Study note image" width="300">
+<img src="assets/image-07.jpeg" alt="Study note image" width="300">
 
 Also studied ABC and abstract methods
 
 Aug 15 -
 
+<img src="assets/image-08.jpeg" alt="Study note image" width="300">
+
+<img src="assets/image-09.jpeg" alt="Study note image" width="300">
+
+<img src="assets/image-10.jpeg" alt="Study note image" width="300">
+
 <img src="assets/image-11.jpeg" alt="Study note image" width="300">
-
-<img src="assets/image-12.jpeg" alt="Study note image" width="300">
-
-<img src="assets/image-13.jpeg" alt="Study note image" width="300">
-
-<img src="assets/image-14.jpeg" alt="Study note image" width="300">
 
 Aug 16 -
 
-<img src="assets/image-15.jpeg" alt="Study note image" width="300">
+<img src="assets/image-12.jpeg" alt="Study note image" width="300">
 
 Aug 17 - today I studied
 
-<img src="assets/image-16.jpeg" alt="Study note image" width="300">
+<img src="assets/image-13.jpeg" alt="Study note image" width="300">
 
 Also some introduction to git and GitHub mainly decided to watch code with Harry git and GitHub tutorial for beginners (full course video).
 
@@ -120,27 +120,27 @@ Aug 20 - light study - reviewed the code with Harry git and GitHub tutorial for 
 
 September 16 - i studied general relational sql using syntax that is largely related to postgresql, not entirely mysql or postgresql, later in the roadmap I'll study postgresql after that, some day i'll study MySQL if it is necessary
 
-<img src="assets/image-17.jpeg" alt="Study note image" width="300">
+<img src="assets/image-14.jpeg" alt="Study note image" width="300">
 
 September 17 -
 
-<img src="assets/image-18.jpeg" alt="Study note image" width="300">
+<img src="assets/image-15.jpeg" alt="Study note image" width="300">
 
 September 18 -
 
-<img src="assets/image-02.jpeg" alt="Study note image" width="300">
+<img src="assets/image-16.jpeg" alt="Study note image" width="300">
 
 September 19 -
 
-<img src="assets/image-19.jpeg" alt="Study note image" width="300">
+<img src="assets/image-17.jpeg" alt="Study note image" width="300">
 
 September 20 -
 
-<img src="assets/image-03.jpeg" alt="Study note image" width="300">
+<img src="assets/image-18.jpeg" alt="Study note image" width="300">
 
 September 21 -
 
-<img src="assets/image-01.jpeg" alt="Study note image" width="300">
+<img src="assets/image-19.jpeg" alt="Study note image" width="300">
 
 <img src="assets/image-20.jpeg" alt="Study note image" width="300">
 
@@ -184,9 +184,9 @@ September 25 –
 
 <img src="assets/image-28.jpeg" alt="Study note image" width="300">
 
-<img src="assets/image-29.jpeg" alt="Study note image" width="300">
+<img src="assets/image-32.jpeg" alt="Study note image" width="300">
 
-<img src="assets/image-30.jpeg" alt="Study note image" width="300">
+<img src="assets/image-29.jpeg" alt="Study note image" width="300">
 
 Key Takeaway –
 
@@ -194,4 +194,12 @@ Numpy : basic indexing/slicing in numpy returns view, advanced indexing returns 
 
 So in short, pandas has a more consistent copy behavior, while in numpy it depends on the type of operation.
 
-.
+September 26 -
+
+Pandas –
+
+<img src="assets/image-30.jpeg" alt="Study note image" width="300">
+
+Basic Postgresql –
+
+<img src="assets/image-31.jpeg" alt="Study note image" width="300">
